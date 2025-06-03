@@ -1,2 +1,1 @@
-# web-shop
-project web shop e-commerce
+# webShop-Servlet-jsp-
